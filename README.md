@@ -1,4 +1,4 @@
-PrivateKeyRecoverer
+PrivateKeyMover
 ===================
 
 These two tiny scripts can be used to dump a set of private keys from a wallet and then import them into a new wallet.
