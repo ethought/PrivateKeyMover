@@ -13,10 +13,17 @@ How to Use
 ==========
 
 1 - Start coin daemon with old wallet.
+
 2 - perl DumpPrivateKeys.pl
+
 3 - Stop coin daemon.
+
 4 - Backup and move old wallet.dat file.
+
 5 - Start the coin daemon again (so that a new wallet.dat is generated)
+
 6 - Run ImportPrivateKeys.pl
+
 7 - Wait for the script to finish.
+
 8 - Delete privkeys.txt
